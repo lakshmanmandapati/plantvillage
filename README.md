@@ -1,3 +1,3 @@
 # plantvillage
 
-# dataset: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+dataset: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
